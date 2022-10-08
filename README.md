@@ -1,2 +1,2 @@
 # Traveling
- Wrote a website about traveling using CSS, HTML, JavaScript
+Website about travelling using JavaScript, HTML, CSS 
